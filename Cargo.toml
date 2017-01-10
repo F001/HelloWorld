@@ -1,0 +1,7 @@
+[package]
+name = "hello-world"
+version = "0.1.0"
+authors = ["f001 <changchun.fan@qq.com>"]
+
+[dependencies]
+hello-world-derive = { path = "hello-world-derive" }

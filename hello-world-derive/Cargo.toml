@@ -1,0 +1,10 @@
+[package]
+name = "hello-world-derive"
+version = "0.1.0"
+authors = ["f001 <changchun.fan@qq.com>"]
+
+[lib]
+proc-macro=true
+
+[dependencies]
+regex = "0.2"
